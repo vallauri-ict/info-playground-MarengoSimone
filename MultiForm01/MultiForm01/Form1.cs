@@ -42,5 +42,22 @@ namespace MultiForm01
             f2b.Text = "Form 2 con passaggio di TextBox";
             f2b.Show();
         }
+
+        private void btnFormModale_Click(object sender, EventArgs e)
+        {
+            FormModale fm = new FormModale();
+            if(fm.ShowDialog() == DialogResult.OK)
+            {
+                MessageBox.Show("Premuto OK");
+                txtNomeFM.Text = fm.nome;
+                txtEtaFM.Text = fm.eta;
+            }
+            else
+            {
+                txtNomeFM.Text = "";
+                txtEtaFM.Text = "";
+                MessageBox.Show("Premuto Annulla");
+            }
+        }
     }
 }
