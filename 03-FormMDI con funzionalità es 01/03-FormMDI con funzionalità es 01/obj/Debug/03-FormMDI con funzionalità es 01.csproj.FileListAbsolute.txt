@@ -1,0 +1,12 @@
+G:\INFORMATICA\Quarta\INFO\TEORIA\03-FormMDI con funzionalità es 01\03-FormMDI con funzionalità es 01\bin\Debug\03-FormMDI con funzionalità es 01.exe.config
+G:\INFORMATICA\Quarta\INFO\TEORIA\03-FormMDI con funzionalità es 01\03-FormMDI con funzionalità es 01\bin\Debug\03-FormMDI con funzionalità es 01.exe
+G:\INFORMATICA\Quarta\INFO\TEORIA\03-FormMDI con funzionalità es 01\03-FormMDI con funzionalità es 01\bin\Debug\03-FormMDI con funzionalità es 01.pdb
+G:\INFORMATICA\Quarta\INFO\TEORIA\03-FormMDI con funzionalità es 01\03-FormMDI con funzionalità es 01\obj\Debug\03-FormMDI con funzionalità es 01.csprojAssemblyReference.cache
+G:\INFORMATICA\Quarta\INFO\TEORIA\03-FormMDI con funzionalità es 01\03-FormMDI con funzionalità es 01\obj\Debug\_03_FormMDI_con_funzionalità_es_01.Form1.resources
+G:\INFORMATICA\Quarta\INFO\TEORIA\03-FormMDI con funzionalità es 01\03-FormMDI con funzionalità es 01\obj\Debug\_03_FormMDI_con_funzionalità_es_01.Properties.Resources.resources
+G:\INFORMATICA\Quarta\INFO\TEORIA\03-FormMDI con funzionalità es 01\03-FormMDI con funzionalità es 01\obj\Debug\03-FormMDI con funzionalità es 01.csproj.GenerateResource.cache
+G:\INFORMATICA\Quarta\INFO\TEORIA\03-FormMDI con funzionalità es 01\03-FormMDI con funzionalità es 01\obj\Debug\03-FormMDI con funzionalità es 01.exe
+G:\INFORMATICA\Quarta\INFO\TEORIA\03-FormMDI con funzionalità es 01\03-FormMDI con funzionalità es 01\obj\Debug\03-FormMDI con funzionalità es 01.pdb
+G:\INFORMATICA\Quarta\INFO\TEORIA\03-FormMDI con funzionalità es 01\03-FormMDI con funzionalità es 01\obj\Debug\_03_FormMDI_con_funzionalità_es_01.ModalEsci.resources
+G:\INFORMATICA\Quarta\INFO\TEORIA\03-FormMDI con funzionalità es 01\03-FormMDI con funzionalità es 01\obj\Debug\_03_FormMDI_con_funzionalità_es_01.Form2.resources
+G:\INFORMATICA\Quarta\INFO\TEORIA\03-FormMDI con funzionalità es 01\03-FormMDI con funzionalità es 01\obj\Debug\_03_FormMDI_con_funzionalità_es_01.FormFiglia.resources
