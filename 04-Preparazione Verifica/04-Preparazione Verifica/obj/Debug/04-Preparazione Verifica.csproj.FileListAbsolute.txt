@@ -1,0 +1,26 @@
+D:\INFORMATICA\Quarta\INFO\TEORIA\04-Preparazione Verifica\04-Preparazione Verifica\bin\Debug\04-Preparazione Verifica.exe.config
+D:\INFORMATICA\Quarta\INFO\TEORIA\04-Preparazione Verifica\04-Preparazione Verifica\bin\Debug\04-Preparazione Verifica.exe
+D:\INFORMATICA\Quarta\INFO\TEORIA\04-Preparazione Verifica\04-Preparazione Verifica\bin\Debug\04-Preparazione Verifica.pdb
+D:\INFORMATICA\Quarta\INFO\TEORIA\04-Preparazione Verifica\04-Preparazione Verifica\obj\Debug\04-Preparazione Verifica.csprojAssemblyReference.cache
+D:\INFORMATICA\Quarta\INFO\TEORIA\04-Preparazione Verifica\04-Preparazione Verifica\obj\Debug\_04_Preparazione_Verifica.Form1.resources
+D:\INFORMATICA\Quarta\INFO\TEORIA\04-Preparazione Verifica\04-Preparazione Verifica\obj\Debug\_04_Preparazione_Verifica.Properties.Resources.resources
+D:\INFORMATICA\Quarta\INFO\TEORIA\04-Preparazione Verifica\04-Preparazione Verifica\obj\Debug\04-Preparazione Verifica.csproj.GenerateResource.cache
+D:\INFORMATICA\Quarta\INFO\TEORIA\04-Preparazione Verifica\04-Preparazione Verifica\obj\Debug\04-Preparazione Verifica.exe
+D:\INFORMATICA\Quarta\INFO\TEORIA\04-Preparazione Verifica\04-Preparazione Verifica\obj\Debug\04-Preparazione Verifica.pdb
+D:\INFORMATICA\Quarta\INFO\TEORIA\04-Preparazione Verifica\04-Preparazione Verifica\obj\Debug\_04_Preparazione_Verifica.ModalEsci.resources
+D:\INFORMATICA\Quarta\INFO\TEORIA\04-Preparazione Verifica\04-Preparazione Verifica\obj\Debug\_04_Preparazione_Verifica.Form2.resources
+D:\INFORMATICA\Quarta\INFO\TEORIA\04-Preparazione Verifica\04-Preparazione Verifica\obj\Debug\_04_Preparazione_Verifica.FormMDI.resources
+D:\INFORMATICA\Quarta\INFO\TEORIA\04-Preparazione Verifica\04-Preparazione Verifica\obj\Debug\04-Preparazione Verifica.csproj.CoreCompileInputs.cache
+F:\INFORMATICA\Quarta\INFO\TEORIA\04-Preparazione Verifica\04-Preparazione Verifica\bin\Debug\04-Preparazione Verifica.exe.config
+F:\INFORMATICA\Quarta\INFO\TEORIA\04-Preparazione Verifica\04-Preparazione Verifica\bin\Debug\04-Preparazione Verifica.exe
+F:\INFORMATICA\Quarta\INFO\TEORIA\04-Preparazione Verifica\04-Preparazione Verifica\bin\Debug\04-Preparazione Verifica.pdb
+F:\INFORMATICA\Quarta\INFO\TEORIA\04-Preparazione Verifica\04-Preparazione Verifica\obj\Debug\04-Preparazione Verifica.csprojAssemblyReference.cache
+F:\INFORMATICA\Quarta\INFO\TEORIA\04-Preparazione Verifica\04-Preparazione Verifica\obj\Debug\_04_Preparazione_Verifica.Form1.resources
+F:\INFORMATICA\Quarta\INFO\TEORIA\04-Preparazione Verifica\04-Preparazione Verifica\obj\Debug\_04_Preparazione_Verifica.Form2.resources
+F:\INFORMATICA\Quarta\INFO\TEORIA\04-Preparazione Verifica\04-Preparazione Verifica\obj\Debug\_04_Preparazione_Verifica.FormMDI.resources
+F:\INFORMATICA\Quarta\INFO\TEORIA\04-Preparazione Verifica\04-Preparazione Verifica\obj\Debug\_04_Preparazione_Verifica.ModalEsci.resources
+F:\INFORMATICA\Quarta\INFO\TEORIA\04-Preparazione Verifica\04-Preparazione Verifica\obj\Debug\_04_Preparazione_Verifica.Properties.Resources.resources
+F:\INFORMATICA\Quarta\INFO\TEORIA\04-Preparazione Verifica\04-Preparazione Verifica\obj\Debug\04-Preparazione Verifica.csproj.GenerateResource.cache
+F:\INFORMATICA\Quarta\INFO\TEORIA\04-Preparazione Verifica\04-Preparazione Verifica\obj\Debug\04-Preparazione Verifica.exe
+F:\INFORMATICA\Quarta\INFO\TEORIA\04-Preparazione Verifica\04-Preparazione Verifica\obj\Debug\04-Preparazione Verifica.pdb
+F:\INFORMATICA\Quarta\INFO\TEORIA\04-Preparazione Verifica\04-Preparazione Verifica\obj\Debug\_04_Preparazione_Verifica.FormFiglia.resources
