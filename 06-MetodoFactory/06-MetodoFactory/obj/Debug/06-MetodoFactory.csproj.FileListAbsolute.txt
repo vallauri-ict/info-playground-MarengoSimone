@@ -1,0 +1,9 @@
+G:\INFORMATICA\Quarta\INFO\TEORIA\06-MetodoFactory\06-MetodoFactory\bin\Debug\06-MetodoFactory.exe.config
+G:\INFORMATICA\Quarta\INFO\TEORIA\06-MetodoFactory\06-MetodoFactory\bin\Debug\06-MetodoFactory.exe
+G:\INFORMATICA\Quarta\INFO\TEORIA\06-MetodoFactory\06-MetodoFactory\bin\Debug\06-MetodoFactory.pdb
+G:\INFORMATICA\Quarta\INFO\TEORIA\06-MetodoFactory\06-MetodoFactory\obj\Debug\06-MetodoFactory.csprojAssemblyReference.cache
+G:\INFORMATICA\Quarta\INFO\TEORIA\06-MetodoFactory\06-MetodoFactory\obj\Debug\_06_MetodoFactory.Form1.resources
+G:\INFORMATICA\Quarta\INFO\TEORIA\06-MetodoFactory\06-MetodoFactory\obj\Debug\_06_MetodoFactory.Properties.Resources.resources
+G:\INFORMATICA\Quarta\INFO\TEORIA\06-MetodoFactory\06-MetodoFactory\obj\Debug\06-MetodoFactory.csproj.GenerateResource.cache
+G:\INFORMATICA\Quarta\INFO\TEORIA\06-MetodoFactory\06-MetodoFactory\obj\Debug\06-MetodoFactory.exe
+G:\INFORMATICA\Quarta\INFO\TEORIA\06-MetodoFactory\06-MetodoFactory\obj\Debug\06-MetodoFactory.pdb
