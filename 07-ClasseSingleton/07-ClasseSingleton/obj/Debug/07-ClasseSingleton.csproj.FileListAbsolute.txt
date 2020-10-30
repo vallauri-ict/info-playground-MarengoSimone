@@ -1,0 +1,9 @@
+G:\INFORMATICA\Quarta\INFO\TEORIA\07-ClasseSingleton\07-ClasseSingleton\bin\Debug\07-ClasseSingleton.exe.config
+G:\INFORMATICA\Quarta\INFO\TEORIA\07-ClasseSingleton\07-ClasseSingleton\bin\Debug\07-ClasseSingleton.exe
+G:\INFORMATICA\Quarta\INFO\TEORIA\07-ClasseSingleton\07-ClasseSingleton\bin\Debug\07-ClasseSingleton.pdb
+G:\INFORMATICA\Quarta\INFO\TEORIA\07-ClasseSingleton\07-ClasseSingleton\obj\Debug\07-ClasseSingleton.csprojAssemblyReference.cache
+G:\INFORMATICA\Quarta\INFO\TEORIA\07-ClasseSingleton\07-ClasseSingleton\obj\Debug\_07_ClasseSingleton.Form1.resources
+G:\INFORMATICA\Quarta\INFO\TEORIA\07-ClasseSingleton\07-ClasseSingleton\obj\Debug\_07_ClasseSingleton.Properties.Resources.resources
+G:\INFORMATICA\Quarta\INFO\TEORIA\07-ClasseSingleton\07-ClasseSingleton\obj\Debug\07-ClasseSingleton.csproj.GenerateResource.cache
+G:\INFORMATICA\Quarta\INFO\TEORIA\07-ClasseSingleton\07-ClasseSingleton\obj\Debug\07-ClasseSingleton.exe
+G:\INFORMATICA\Quarta\INFO\TEORIA\07-ClasseSingleton\07-ClasseSingleton\obj\Debug\07-ClasseSingleton.pdb
