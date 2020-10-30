@@ -2,4 +2,4 @@
 
 _Stud. Marengo Simone_
 
-### Progetto 6: Primo esercizio con utilizzo della classe Singleton
+### Progetto 7: Primo esercizio con utilizzo della classe Singleton
