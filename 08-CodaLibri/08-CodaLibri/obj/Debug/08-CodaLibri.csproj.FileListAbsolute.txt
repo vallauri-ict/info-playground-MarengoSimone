@@ -1,0 +1,9 @@
+G:\INFORMATICA\Quarta\INFO\TEORIA\08-CodaLibri\08-CodaLibri\bin\Debug\08-CodaLibri.exe.config
+G:\INFORMATICA\Quarta\INFO\TEORIA\08-CodaLibri\08-CodaLibri\bin\Debug\08-CodaLibri.exe
+G:\INFORMATICA\Quarta\INFO\TEORIA\08-CodaLibri\08-CodaLibri\bin\Debug\08-CodaLibri.pdb
+G:\INFORMATICA\Quarta\INFO\TEORIA\08-CodaLibri\08-CodaLibri\obj\Debug\08-CodaLibri.csprojAssemblyReference.cache
+G:\INFORMATICA\Quarta\INFO\TEORIA\08-CodaLibri\08-CodaLibri\obj\Debug\_08_CodaLibri.Form1.resources
+G:\INFORMATICA\Quarta\INFO\TEORIA\08-CodaLibri\08-CodaLibri\obj\Debug\_08_CodaLibri.Properties.Resources.resources
+G:\INFORMATICA\Quarta\INFO\TEORIA\08-CodaLibri\08-CodaLibri\obj\Debug\08-CodaLibri.csproj.GenerateResource.cache
+G:\INFORMATICA\Quarta\INFO\TEORIA\08-CodaLibri\08-CodaLibri\obj\Debug\08-CodaLibri.exe
+G:\INFORMATICA\Quarta\INFO\TEORIA\08-CodaLibri\08-CodaLibri\obj\Debug\08-CodaLibri.pdb
