@@ -1,0 +1,9 @@
+G:\INFORMATICA\Quarta\INFO\TEORIA\09-ClasseIndexata\09-ClasseIndexata\bin\Debug\09-ClasseIndexata.exe.config
+G:\INFORMATICA\Quarta\INFO\TEORIA\09-ClasseIndexata\09-ClasseIndexata\bin\Debug\09-ClasseIndexata.exe
+G:\INFORMATICA\Quarta\INFO\TEORIA\09-ClasseIndexata\09-ClasseIndexata\bin\Debug\09-ClasseIndexata.pdb
+G:\INFORMATICA\Quarta\INFO\TEORIA\09-ClasseIndexata\09-ClasseIndexata\obj\Debug\09-ClasseIndexata.csprojAssemblyReference.cache
+G:\INFORMATICA\Quarta\INFO\TEORIA\09-ClasseIndexata\09-ClasseIndexata\obj\Debug\_09_ClasseIndexata.Form1.resources
+G:\INFORMATICA\Quarta\INFO\TEORIA\09-ClasseIndexata\09-ClasseIndexata\obj\Debug\_09_ClasseIndexata.Properties.Resources.resources
+G:\INFORMATICA\Quarta\INFO\TEORIA\09-ClasseIndexata\09-ClasseIndexata\obj\Debug\09-ClasseIndexata.csproj.GenerateResource.cache
+G:\INFORMATICA\Quarta\INFO\TEORIA\09-ClasseIndexata\09-ClasseIndexata\obj\Debug\09-ClasseIndexata.exe
+G:\INFORMATICA\Quarta\INFO\TEORIA\09-ClasseIndexata\09-ClasseIndexata\obj\Debug\09-ClasseIndexata.pdb
