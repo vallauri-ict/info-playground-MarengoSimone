@@ -1,0 +1,9 @@
+G:\INFORMATICA\Quarta\INFO\TEORIA\10-RegistrazioneForm\10-RegistrazioneForm\bin\Debug\10-RegistrazioneForm.exe.config
+G:\INFORMATICA\Quarta\INFO\TEORIA\10-RegistrazioneForm\10-RegistrazioneForm\bin\Debug\10-RegistrazioneForm.exe
+G:\INFORMATICA\Quarta\INFO\TEORIA\10-RegistrazioneForm\10-RegistrazioneForm\bin\Debug\10-RegistrazioneForm.pdb
+G:\INFORMATICA\Quarta\INFO\TEORIA\10-RegistrazioneForm\10-RegistrazioneForm\obj\Debug\10-RegistrazioneForm.csprojAssemblyReference.cache
+G:\INFORMATICA\Quarta\INFO\TEORIA\10-RegistrazioneForm\10-RegistrazioneForm\obj\Debug\_10_RegistrazioneForm.Form1.resources
+G:\INFORMATICA\Quarta\INFO\TEORIA\10-RegistrazioneForm\10-RegistrazioneForm\obj\Debug\_10_RegistrazioneForm.Properties.Resources.resources
+G:\INFORMATICA\Quarta\INFO\TEORIA\10-RegistrazioneForm\10-RegistrazioneForm\obj\Debug\10-RegistrazioneForm.csproj.GenerateResource.cache
+G:\INFORMATICA\Quarta\INFO\TEORIA\10-RegistrazioneForm\10-RegistrazioneForm\obj\Debug\10-RegistrazioneForm.exe
+G:\INFORMATICA\Quarta\INFO\TEORIA\10-RegistrazioneForm\10-RegistrazioneForm\obj\Debug\10-RegistrazioneForm.pdb
