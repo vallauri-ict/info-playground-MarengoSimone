@@ -1,0 +1,9 @@
+G:\INFORMATICA\Quarta\INFO\TEORIA\11-Lista\11-Lista\bin\Debug\11-Lista.exe.config
+G:\INFORMATICA\Quarta\INFO\TEORIA\11-Lista\11-Lista\bin\Debug\11-Lista.exe
+G:\INFORMATICA\Quarta\INFO\TEORIA\11-Lista\11-Lista\bin\Debug\11-Lista.pdb
+G:\INFORMATICA\Quarta\INFO\TEORIA\11-Lista\11-Lista\obj\Debug\11-Lista.csprojAssemblyReference.cache
+G:\INFORMATICA\Quarta\INFO\TEORIA\11-Lista\11-Lista\obj\Debug\_11_Lista.Form1.resources
+G:\INFORMATICA\Quarta\INFO\TEORIA\11-Lista\11-Lista\obj\Debug\_11_Lista.Properties.Resources.resources
+G:\INFORMATICA\Quarta\INFO\TEORIA\11-Lista\11-Lista\obj\Debug\11-Lista.csproj.GenerateResource.cache
+G:\INFORMATICA\Quarta\INFO\TEORIA\11-Lista\11-Lista\obj\Debug\11-Lista.exe
+G:\INFORMATICA\Quarta\INFO\TEORIA\11-Lista\11-Lista\obj\Debug\11-Lista.pdb
