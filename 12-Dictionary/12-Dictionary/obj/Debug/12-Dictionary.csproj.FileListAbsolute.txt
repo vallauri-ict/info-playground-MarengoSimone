@@ -1,0 +1,9 @@
+G:\INFORMATICA\Quarta\INFO\TEORIA\12-Dictionary\12-Dictionary\bin\Debug\12-Dictionary.exe.config
+G:\INFORMATICA\Quarta\INFO\TEORIA\12-Dictionary\12-Dictionary\bin\Debug\12-Dictionary.exe
+G:\INFORMATICA\Quarta\INFO\TEORIA\12-Dictionary\12-Dictionary\bin\Debug\12-Dictionary.pdb
+G:\INFORMATICA\Quarta\INFO\TEORIA\12-Dictionary\12-Dictionary\obj\Debug\12-Dictionary.csprojAssemblyReference.cache
+G:\INFORMATICA\Quarta\INFO\TEORIA\12-Dictionary\12-Dictionary\obj\Debug\_12_Dictionary.Form1.resources
+G:\INFORMATICA\Quarta\INFO\TEORIA\12-Dictionary\12-Dictionary\obj\Debug\_12_Dictionary.Properties.Resources.resources
+G:\INFORMATICA\Quarta\INFO\TEORIA\12-Dictionary\12-Dictionary\obj\Debug\12-Dictionary.csproj.GenerateResource.cache
+G:\INFORMATICA\Quarta\INFO\TEORIA\12-Dictionary\12-Dictionary\obj\Debug\12-Dictionary.exe
+G:\INFORMATICA\Quarta\INFO\TEORIA\12-Dictionary\12-Dictionary\obj\Debug\12-Dictionary.pdb
