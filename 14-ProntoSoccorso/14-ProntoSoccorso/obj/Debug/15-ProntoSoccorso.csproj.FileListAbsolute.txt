@@ -1,0 +1,9 @@
+G:\INFORMATICA\Quarta\INFO\TEORIA\15-ProntoSoccorso\15-ProntoSoccorso\bin\Debug\15-ProntoSoccorso.exe.config
+G:\INFORMATICA\Quarta\INFO\TEORIA\15-ProntoSoccorso\15-ProntoSoccorso\bin\Debug\15-ProntoSoccorso.exe
+G:\INFORMATICA\Quarta\INFO\TEORIA\15-ProntoSoccorso\15-ProntoSoccorso\bin\Debug\15-ProntoSoccorso.pdb
+G:\INFORMATICA\Quarta\INFO\TEORIA\15-ProntoSoccorso\15-ProntoSoccorso\obj\Debug\15-ProntoSoccorso.csprojAssemblyReference.cache
+G:\INFORMATICA\Quarta\INFO\TEORIA\15-ProntoSoccorso\15-ProntoSoccorso\obj\Debug\_15_ProntoSoccorso.Form1.resources
+G:\INFORMATICA\Quarta\INFO\TEORIA\15-ProntoSoccorso\15-ProntoSoccorso\obj\Debug\_15_ProntoSoccorso.Properties.Resources.resources
+G:\INFORMATICA\Quarta\INFO\TEORIA\15-ProntoSoccorso\15-ProntoSoccorso\obj\Debug\15-ProntoSoccorso.csproj.GenerateResource.cache
+G:\INFORMATICA\Quarta\INFO\TEORIA\15-ProntoSoccorso\15-ProntoSoccorso\obj\Debug\15-ProntoSoccorso.exe
+G:\INFORMATICA\Quarta\INFO\TEORIA\15-ProntoSoccorso\15-ProntoSoccorso\obj\Debug\15-ProntoSoccorso.pdb
