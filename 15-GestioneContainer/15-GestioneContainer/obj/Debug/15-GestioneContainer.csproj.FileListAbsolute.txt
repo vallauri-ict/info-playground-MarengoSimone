@@ -1,0 +1,9 @@
+G:\INFORMATICA\Quarta\INFO\TEORIA\15-GestioneContainer\15-GestioneContainer\bin\Debug\15-GestioneContainer.exe.config
+G:\INFORMATICA\Quarta\INFO\TEORIA\15-GestioneContainer\15-GestioneContainer\bin\Debug\15-GestioneContainer.exe
+G:\INFORMATICA\Quarta\INFO\TEORIA\15-GestioneContainer\15-GestioneContainer\bin\Debug\15-GestioneContainer.pdb
+G:\INFORMATICA\Quarta\INFO\TEORIA\15-GestioneContainer\15-GestioneContainer\obj\Debug\15-GestioneContainer.csprojAssemblyReference.cache
+G:\INFORMATICA\Quarta\INFO\TEORIA\15-GestioneContainer\15-GestioneContainer\obj\Debug\_15_GestioneContainer.Form1.resources
+G:\INFORMATICA\Quarta\INFO\TEORIA\15-GestioneContainer\15-GestioneContainer\obj\Debug\_15_GestioneContainer.Properties.Resources.resources
+G:\INFORMATICA\Quarta\INFO\TEORIA\15-GestioneContainer\15-GestioneContainer\obj\Debug\15-GestioneContainer.csproj.GenerateResource.cache
+G:\INFORMATICA\Quarta\INFO\TEORIA\15-GestioneContainer\15-GestioneContainer\obj\Debug\15-GestioneContainer.exe
+G:\INFORMATICA\Quarta\INFO\TEORIA\15-GestioneContainer\15-GestioneContainer\obj\Debug\15-GestioneContainer.pdb
