@@ -1,0 +1,9 @@
+G:\INFORMATICA\Quarta\INFO\TEORIA\16-Ereditarietà\16-Ereditarietà\bin\Debug\16-Ereditarietà.exe.config
+G:\INFORMATICA\Quarta\INFO\TEORIA\16-Ereditarietà\16-Ereditarietà\bin\Debug\16-Ereditarietà.exe
+G:\INFORMATICA\Quarta\INFO\TEORIA\16-Ereditarietà\16-Ereditarietà\bin\Debug\16-Ereditarietà.pdb
+G:\INFORMATICA\Quarta\INFO\TEORIA\16-Ereditarietà\16-Ereditarietà\obj\Debug\16-Ereditarietà.csprojAssemblyReference.cache
+G:\INFORMATICA\Quarta\INFO\TEORIA\16-Ereditarietà\16-Ereditarietà\obj\Debug\_16_Ereditarietà.Form1.resources
+G:\INFORMATICA\Quarta\INFO\TEORIA\16-Ereditarietà\16-Ereditarietà\obj\Debug\_16_Ereditarietà.Properties.Resources.resources
+G:\INFORMATICA\Quarta\INFO\TEORIA\16-Ereditarietà\16-Ereditarietà\obj\Debug\16-Ereditarietà.csproj.GenerateResource.cache
+G:\INFORMATICA\Quarta\INFO\TEORIA\16-Ereditarietà\16-Ereditarietà\obj\Debug\16-Ereditarietà.exe
+G:\INFORMATICA\Quarta\INFO\TEORIA\16-Ereditarietà\16-Ereditarietà\obj\Debug\16-Ereditarietà.pdb
