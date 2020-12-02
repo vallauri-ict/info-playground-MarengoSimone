@@ -1,0 +1,9 @@
+G:\INFORMATICA\Quarta\INFO\TEORIA\17-EreditarietàEsGuidato02\17-EreditarietàEsGuidato02\bin\Debug\17-EreditarietàEsGuidato02.exe.config
+G:\INFORMATICA\Quarta\INFO\TEORIA\17-EreditarietàEsGuidato02\17-EreditarietàEsGuidato02\bin\Debug\17-EreditarietàEsGuidato02.exe
+G:\INFORMATICA\Quarta\INFO\TEORIA\17-EreditarietàEsGuidato02\17-EreditarietàEsGuidato02\bin\Debug\17-EreditarietàEsGuidato02.pdb
+G:\INFORMATICA\Quarta\INFO\TEORIA\17-EreditarietàEsGuidato02\17-EreditarietàEsGuidato02\obj\Debug\17-EreditarietàEsGuidato02.csprojAssemblyReference.cache
+G:\INFORMATICA\Quarta\INFO\TEORIA\17-EreditarietàEsGuidato02\17-EreditarietàEsGuidato02\obj\Debug\_17_EreditarietàEsGuidato02.Form1.resources
+G:\INFORMATICA\Quarta\INFO\TEORIA\17-EreditarietàEsGuidato02\17-EreditarietàEsGuidato02\obj\Debug\_17_EreditarietàEsGuidato02.Properties.Resources.resources
+G:\INFORMATICA\Quarta\INFO\TEORIA\17-EreditarietàEsGuidato02\17-EreditarietàEsGuidato02\obj\Debug\17-EreditarietàEsGuidato02.csproj.GenerateResource.cache
+G:\INFORMATICA\Quarta\INFO\TEORIA\17-EreditarietàEsGuidato02\17-EreditarietàEsGuidato02\obj\Debug\17-EreditarietàEsGuidato02.exe
+G:\INFORMATICA\Quarta\INFO\TEORIA\17-EreditarietàEsGuidato02\17-EreditarietàEsGuidato02\obj\Debug\17-EreditarietàEsGuidato02.pdb
