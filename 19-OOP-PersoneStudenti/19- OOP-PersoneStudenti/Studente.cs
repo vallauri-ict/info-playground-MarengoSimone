@@ -19,5 +19,10 @@ namespace _19__OOP_PersoneStudenti
             }
             return (double)sommaVoti/voti.Count();
         }
+
+        public void aggiungiVoto(int voto)
+        {
+            voti.Add(voto);
+        }
     }
 }

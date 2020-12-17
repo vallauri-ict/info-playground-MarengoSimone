@@ -1,0 +1,9 @@
+G:\INFORMATICA\Quarta\INFO\TEORIA\19-OOP-PersoneStudenti\19- OOP-PersoneStudenti\bin\Debug\19- OOP-PersoneStudenti.exe.config
+G:\INFORMATICA\Quarta\INFO\TEORIA\19-OOP-PersoneStudenti\19- OOP-PersoneStudenti\bin\Debug\19- OOP-PersoneStudenti.exe
+G:\INFORMATICA\Quarta\INFO\TEORIA\19-OOP-PersoneStudenti\19- OOP-PersoneStudenti\bin\Debug\19- OOP-PersoneStudenti.pdb
+G:\INFORMATICA\Quarta\INFO\TEORIA\19-OOP-PersoneStudenti\19- OOP-PersoneStudenti\obj\Debug\19- OOP-PersoneStudenti.csprojAssemblyReference.cache
+G:\INFORMATICA\Quarta\INFO\TEORIA\19-OOP-PersoneStudenti\19- OOP-PersoneStudenti\obj\Debug\_19__OOP_PersoneStudenti.Form1.resources
+G:\INFORMATICA\Quarta\INFO\TEORIA\19-OOP-PersoneStudenti\19- OOP-PersoneStudenti\obj\Debug\_19__OOP_PersoneStudenti.Properties.Resources.resources
+G:\INFORMATICA\Quarta\INFO\TEORIA\19-OOP-PersoneStudenti\19- OOP-PersoneStudenti\obj\Debug\19- OOP-PersoneStudenti.csproj.GenerateResource.cache
+G:\INFORMATICA\Quarta\INFO\TEORIA\19-OOP-PersoneStudenti\19- OOP-PersoneStudenti\obj\Debug\19- OOP-PersoneStudenti.exe
+G:\INFORMATICA\Quarta\INFO\TEORIA\19-OOP-PersoneStudenti\19- OOP-PersoneStudenti\obj\Debug\19- OOP-PersoneStudenti.pdb

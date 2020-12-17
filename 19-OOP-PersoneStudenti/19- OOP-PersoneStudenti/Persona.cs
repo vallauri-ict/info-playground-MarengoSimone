@@ -19,7 +19,7 @@ namespace _19__OOP_PersoneStudenti
                 this.cognome = cognome;
                 this.sesso = sesso;
                 this.eta = eta;*/
-                getAttributes(out nome, out cognome, out sesso, out eta); // tutti i metodi in questa funzione
+                getAttributes(out nome, out cognome, out sesso, out eta); // tutti i get in questa funzione
             }
         }
 
