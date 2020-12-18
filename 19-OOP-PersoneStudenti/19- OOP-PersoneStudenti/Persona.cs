@@ -15,20 +15,11 @@ namespace _19__OOP_PersoneStudenti
         {
             if (nome != "" && cognome != "" && sesso != "" && eta != 0) 
             {
-                /*this.nome = nome;
+                this.nome = nome;
                 this.cognome = cognome;
                 this.sesso = sesso;
-                this.eta = eta;*/
-                getAttributes(out nome, out cognome, out sesso, out eta); // tutti i get in questa funzione
+                this.eta = eta;
             }
-        }
-
-        private void getAttributes(out string nome, out string cognome, out string sesso, out int eta)
-        {
-            nome = this.nome;
-            cognome = this.cognome;
-            sesso = this.sesso;
-            eta = this.eta;
         }
 
         public string GetNome()

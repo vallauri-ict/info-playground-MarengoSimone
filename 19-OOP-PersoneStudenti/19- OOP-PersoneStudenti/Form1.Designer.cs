@@ -37,10 +37,11 @@
             this.label4 = new System.Windows.Forms.Label();
             this.txtEta = new System.Windows.Forms.TextBox();
             this.btnAggiungi = new System.Windows.Forms.Button();
-            this.btnMedia = new System.Windows.Forms.Button();
             this.label5 = new System.Windows.Forms.Label();
             this.txtVoto = new System.Windows.Forms.TextBox();
             this.btnVoto = new System.Windows.Forms.Button();
+            this.listStudenti = new System.Windows.Forms.ListView();
+            this.btnVisualizza = new System.Windows.Forms.Button();
             this.SuspendLayout();
             // 
             // txtCognome
@@ -109,7 +110,7 @@
             // 
             // btnAggiungi
             // 
-            this.btnAggiungi.Location = new System.Drawing.Point(15, 208);
+            this.btnAggiungi.Location = new System.Drawing.Point(219, 27);
             this.btnAggiungi.Name = "btnAggiungi";
             this.btnAggiungi.Size = new System.Drawing.Size(170, 31);
             this.btnAggiungi.TabIndex = 8;
@@ -117,20 +118,10 @@
             this.btnAggiungi.UseVisualStyleBackColor = true;
             this.btnAggiungi.Click += new System.EventHandler(this.btnAggiungi_Click);
             // 
-            // btnMedia
-            // 
-            this.btnMedia.Location = new System.Drawing.Point(219, 208);
-            this.btnMedia.Name = "btnMedia";
-            this.btnMedia.Size = new System.Drawing.Size(170, 31);
-            this.btnMedia.TabIndex = 9;
-            this.btnMedia.Text = "Media Studente";
-            this.btnMedia.UseVisualStyleBackColor = true;
-            this.btnMedia.Click += new System.EventHandler(this.btnMedia_Click);
-            // 
             // label5
             // 
             this.label5.AutoSize = true;
-            this.label5.Location = new System.Drawing.Point(232, 88);
+            this.label5.Location = new System.Drawing.Point(12, 208);
             this.label5.Name = "label5";
             this.label5.Size = new System.Drawing.Size(32, 13);
             this.label5.TabIndex = 11;
@@ -138,30 +129,51 @@
             // 
             // txtVoto
             // 
-            this.txtVoto.Location = new System.Drawing.Point(289, 85);
+            this.txtVoto.Location = new System.Drawing.Point(85, 205);
             this.txtVoto.Name = "txtVoto";
             this.txtVoto.Size = new System.Drawing.Size(100, 20);
             this.txtVoto.TabIndex = 10;
             // 
             // btnVoto
             // 
-            this.btnVoto.Location = new System.Drawing.Point(235, 117);
+            this.btnVoto.Location = new System.Drawing.Point(219, 117);
             this.btnVoto.Name = "btnVoto";
-            this.btnVoto.Size = new System.Drawing.Size(154, 35);
+            this.btnVoto.Size = new System.Drawing.Size(170, 30);
             this.btnVoto.TabIndex = 12;
             this.btnVoto.Text = "Aggiungi Voto";
             this.btnVoto.UseVisualStyleBackColor = true;
             this.btnVoto.Click += new System.EventHandler(this.btnVoto_Click);
             // 
+            // listStudenti
+            // 
+            this.listStudenti.HideSelection = false;
+            this.listStudenti.Location = new System.Drawing.Point(454, 12);
+            this.listStudenti.Name = "listStudenti";
+            this.listStudenti.Size = new System.Drawing.Size(186, 255);
+            this.listStudenti.TabIndex = 15;
+            this.listStudenti.UseCompatibleStateImageBehavior = false;
+            this.listStudenti.View = System.Windows.Forms.View.List;
+            // 
+            // btnVisualizza
+            // 
+            this.btnVisualizza.Location = new System.Drawing.Point(219, 205);
+            this.btnVisualizza.Name = "btnVisualizza";
+            this.btnVisualizza.Size = new System.Drawing.Size(170, 30);
+            this.btnVisualizza.TabIndex = 16;
+            this.btnVisualizza.Text = "Visualizza";
+            this.btnVisualizza.UseVisualStyleBackColor = true;
+            this.btnVisualizza.Click += new System.EventHandler(this.btnVisualizza_Click);
+            // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(401, 276);
+            this.ClientSize = new System.Drawing.Size(727, 302);
+            this.Controls.Add(this.btnVisualizza);
+            this.Controls.Add(this.listStudenti);
             this.Controls.Add(this.btnVoto);
             this.Controls.Add(this.label5);
             this.Controls.Add(this.txtVoto);
-            this.Controls.Add(this.btnMedia);
             this.Controls.Add(this.btnAggiungi);
             this.Controls.Add(this.label4);
             this.Controls.Add(this.txtEta);
@@ -189,10 +201,11 @@
         private System.Windows.Forms.Label label4;
         private System.Windows.Forms.TextBox txtEta;
         private System.Windows.Forms.Button btnAggiungi;
-        private System.Windows.Forms.Button btnMedia;
         private System.Windows.Forms.Label label5;
         private System.Windows.Forms.TextBox txtVoto;
         private System.Windows.Forms.Button btnVoto;
+        private System.Windows.Forms.ListView listStudenti;
+        private System.Windows.Forms.Button btnVisualizza;
     }
 }
 
