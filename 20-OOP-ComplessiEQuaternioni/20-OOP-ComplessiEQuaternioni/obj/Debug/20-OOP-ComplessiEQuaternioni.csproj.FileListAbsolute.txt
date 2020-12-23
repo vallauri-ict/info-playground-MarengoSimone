@@ -1,0 +1,9 @@
+G:\INFORMATICA\Quarta\INFO\TEORIA\20-OOP-ComplessiEQuaternioni\20-OOP-ComplessiEQuaternioni\bin\Debug\20-OOP-ComplessiEQuaternioni.exe.config
+G:\INFORMATICA\Quarta\INFO\TEORIA\20-OOP-ComplessiEQuaternioni\20-OOP-ComplessiEQuaternioni\bin\Debug\20-OOP-ComplessiEQuaternioni.exe
+G:\INFORMATICA\Quarta\INFO\TEORIA\20-OOP-ComplessiEQuaternioni\20-OOP-ComplessiEQuaternioni\bin\Debug\20-OOP-ComplessiEQuaternioni.pdb
+G:\INFORMATICA\Quarta\INFO\TEORIA\20-OOP-ComplessiEQuaternioni\20-OOP-ComplessiEQuaternioni\obj\Debug\20-OOP-ComplessiEQuaternioni.csprojAssemblyReference.cache
+G:\INFORMATICA\Quarta\INFO\TEORIA\20-OOP-ComplessiEQuaternioni\20-OOP-ComplessiEQuaternioni\obj\Debug\_20_OOP_ComplessiEQuaternioni.Form1.resources
+G:\INFORMATICA\Quarta\INFO\TEORIA\20-OOP-ComplessiEQuaternioni\20-OOP-ComplessiEQuaternioni\obj\Debug\_20_OOP_ComplessiEQuaternioni.Properties.Resources.resources
+G:\INFORMATICA\Quarta\INFO\TEORIA\20-OOP-ComplessiEQuaternioni\20-OOP-ComplessiEQuaternioni\obj\Debug\20-OOP-ComplessiEQuaternioni.csproj.GenerateResource.cache
+G:\INFORMATICA\Quarta\INFO\TEORIA\20-OOP-ComplessiEQuaternioni\20-OOP-ComplessiEQuaternioni\obj\Debug\20-OOP-ComplessiEQuaternioni.exe
+G:\INFORMATICA\Quarta\INFO\TEORIA\20-OOP-ComplessiEQuaternioni\20-OOP-ComplessiEQuaternioni\obj\Debug\20-OOP-ComplessiEQuaternioni.pdb

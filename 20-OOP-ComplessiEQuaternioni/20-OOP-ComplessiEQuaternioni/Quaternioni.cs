@@ -8,15 +8,31 @@ namespace _20_OOP_ComplessiEQuaternioni
 {
     class Quaternioni : Complesso
     {
-        private double immaginarioJ;
-        private double immaginarioK;
+        private double j;
+        private double k;
 
-        public void getAttributes(double reale,double immaginarioB,double immaginarioJ,double immaginarioK)
+        public double J { get => j; set => j = value; }
+        public double K { get => k; set => k = value; }
+
+        public Quaternioni() : this(1)
         {
-            reale = this.reale;
-            immaginarioB = this.immaginario;
-            immaginarioJ = this.immaginarioJ;
-            immaginarioK = this.immaginarioK;
+
+        }
+        public Quaternioni(double immaginario) : this(1, 1)
+        {
+
+        }
+        public Quaternioni(double immaginario, double reale) : this(1, 1, 1)
+        {
+
+        }
+        public Quaternioni(double immaginario, double reale, double j) : this(1, 1, 1, 1)
+        {
+
+        }
+        public Quaternioni(double immaginario, double reale, double j, double k)
+        {
+
         }
     }
 }

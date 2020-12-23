@@ -8,59 +8,37 @@ namespace _20_OOP_ComplessiEQuaternioni
 {
     class Complesso
     {
-        protected double reale;
-        protected double immaginario;
+        private double reale = 0;
+        private double immaginario = 0;
 
-        public Complesso()
+        public Complesso() : this(1)
         {
             // 0 parametri
-            this.reale = 0;
-            this.immaginario = 0;
         }
 
-        public Complesso(double a)
+        public Complesso(double b) :this(1,b)
         {
             // 1 parametro
-            this.reale = a;
-            this.immaginario = 0;
         }
 
         public Complesso(double a, double b)
         {
             // 2 parametri
-            this.reale = a;
-            this.immaginario = b;
+            Reale = a;
+            Immaginario = b;
         }
 
-        public void getAttributes(ref double reale, ref double immaginario)
-        {
-            reale = this.reale;
-            immaginario = this.immaginario;
-        }
-
-        private double getReale()
-        {
-            return this.reale;
-        }
-
-        private double getImmaginario()
-        {
-            return this.immaginario;
-        }
-
+        public double Reale { get => reale; set => reale = value; }
+        public double Immaginario { get => immaginario; set => immaginario = value; }
         public double Modulo()
         {
-            double reale = 0;
-            double immaginario = 0;
-            getAttributes(ref reale, ref immaginario);
             double modulo = Math.Sqrt(Math.Pow(reale, 2) + Math.Pow(immaginario, 2));
             return modulo;
         }
 
-        public double Coniugato()
+        public void Coniugato()
         {
-            double immaginario = getImmaginario();
-            return -immaginario;
+            Immaginario = -Immaginario;
         }
     }
 }
