@@ -16,7 +16,7 @@ namespace _20_OOP_ComplessiEQuaternioni
             // 0 parametri
         }
 
-        public Complesso(double b) :this(1,b)
+        public Complesso(double b) :this(0,b)
         {
             // 1 parametro
         }
@@ -32,8 +32,8 @@ namespace _20_OOP_ComplessiEQuaternioni
         public double Immaginario { get => immaginario; set => immaginario = value; }
         public double Modulo()
         {
-            double modulo = Math.Sqrt(Math.Pow(reale, 2) + Math.Pow(immaginario, 2));
-            return modulo;
+            double modulo = Math.Pow(Reale, 2) + Math.Pow(Immaginario, 2);
+            return Math.Sqrt(modulo);
         }
 
         public void Coniugato()

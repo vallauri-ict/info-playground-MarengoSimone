@@ -1,50 +1,46 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.ComponentModel;
-using System.Data;
-using System.Drawing;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 using System.Windows.Forms;
 
 namespace _20_OOP_ComplessiEQuaternioni
 {
     public partial class Form1 : Form
     {
-        Complesso c;
         public Form1()
         {
             InitializeComponent();
         }
-
-        private void btnInserisci_Click(object sender, EventArgs e)
+        private void btnModulo_Click(object sender, EventArgs e)
         {
-            c = new Complesso();
-            double reale;
-            double immaginario; 
-
-            if (txtReale.Text!="" && txtIm.Text!="")
+            if (txtReale.Text == "" && txtImmaginario.Text != "")
             {
-                reale = Convert.ToDouble(txtReale.Text);
-                immaginario =  Convert.ToDouble(txtIm.Text);
-                //c.getAttributes(ref reale, ref immaginario);
-                MessageBox.Show("Caricamento riuscito");
+                Complesso c = new Complesso(Convert.ToDouble(txtImmaginario.Text));
+                MessageBox.Show("Il modulo del numero complesso vale: " + c.Modulo().ToString());
+            }
+            else if (txtReale.Text != "" && txtImmaginario.Text != "")
+            {
+                Complesso c = new Complesso(Convert.ToDouble(txtReale.Text), Convert.ToDouble(txtImmaginario.Text));
+                MessageBox.Show("Il modulo del numero complesso vale: " + c.Modulo().ToString());
+            }
+            else if (txtReale.Text == "" && txtImmaginario.Text == "")
+            {
+                Complesso c = new Complesso();
+                MessageBox.Show("Il modulo del numero complesso vale: " + c.Modulo().ToString());
             }
             else
             {
-                MessageBox.Show("Inserisci i dati!");
+                MessageBox.Show("Dati mancanti per il complesso");
             }
+
+
         }
 
-        private void btnModulo_Click(object sender, EventArgs e)
+        private void btnModuloQuaternione_Click(object sender, EventArgs e)
         {
-            MessageBox.Show("Il modulo del numero complesso vale: " + c.Modulo());
-        }
-
-        private void btnConiugato_Click(object sender, EventArgs e)
-        {
-            //MessageBox.Show("Il coniugato del numero complesso vale: " + c.Coniugato());
+            Quaternioni q = new Quaternioni(Convert.ToDouble((txtReale.Text != "") ? txtReale.Text : "0")
+                                           , Convert.ToDouble((txtImmaginario.Text != "") ? txtImmaginario.Text : "0"),
+                                           Convert.ToDouble((txtImmaginarioC.Text != "") ? txtImmaginarioC.Text : "0")
+                                           , Convert.ToDouble((txtImmaginarioD.Text != "") ? txtImmaginarioD.Text : "0"));
+            MessageBox.Show("Il modulo del quaternione vale: " + q.Modulo().ToString());
         }
     }
 }
