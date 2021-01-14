@@ -17,9 +17,10 @@ namespace _21_EreditarietàGiocoScopa
             this.valore = valore;
         }
 
-        public Lettura(out string seme,out int valore)
+        public void Lettura(ref string seme,ref int valore)
         {
-
+            seme = this.seme;
+            valore = this.valore;
         }
     }
 }

@@ -10,6 +10,28 @@ namespace _21_EreditarietàGiocoScopa
     {
         private string nome;
         private Mano mano;
-        private Mano prese;
+        List<Carta> prese = new List<Carta>();
+
+        public Giocatore(string nome)
+        {
+            this.nome = nome;
+            mano = new Mano();
+            prese.Clear();
+        }
+
+        public Mano Lettura()
+        {
+            return mano;
+        }
+
+        public List<Carta> Prese()
+        {
+            return prese;
+        }
+
+        public void Gioca(int indice)
+        {
+            Carta c = mano.Gioca(indice);
+        }
     }
 }

@@ -1,0 +1,9 @@
+G:\INFORMATICA\Quarta\INFO\TEORIA\21-EreditarietàGiocoScopa\21-EreditarietàGiocoScopa\bin\Debug\21-EreditarietàGiocoScopa.exe.config
+G:\INFORMATICA\Quarta\INFO\TEORIA\21-EreditarietàGiocoScopa\21-EreditarietàGiocoScopa\bin\Debug\21-EreditarietàGiocoScopa.exe
+G:\INFORMATICA\Quarta\INFO\TEORIA\21-EreditarietàGiocoScopa\21-EreditarietàGiocoScopa\bin\Debug\21-EreditarietàGiocoScopa.pdb
+G:\INFORMATICA\Quarta\INFO\TEORIA\21-EreditarietàGiocoScopa\21-EreditarietàGiocoScopa\obj\Debug\21-EreditarietàGiocoScopa.csprojAssemblyReference.cache
+G:\INFORMATICA\Quarta\INFO\TEORIA\21-EreditarietàGiocoScopa\21-EreditarietàGiocoScopa\obj\Debug\_21_EreditarietàGiocoScopa.Form1.resources
+G:\INFORMATICA\Quarta\INFO\TEORIA\21-EreditarietàGiocoScopa\21-EreditarietàGiocoScopa\obj\Debug\_21_EreditarietàGiocoScopa.Properties.Resources.resources
+G:\INFORMATICA\Quarta\INFO\TEORIA\21-EreditarietàGiocoScopa\21-EreditarietàGiocoScopa\obj\Debug\21-EreditarietàGiocoScopa.csproj.GenerateResource.cache
+G:\INFORMATICA\Quarta\INFO\TEORIA\21-EreditarietàGiocoScopa\21-EreditarietàGiocoScopa\obj\Debug\21-EreditarietàGiocoScopa.exe
+G:\INFORMATICA\Quarta\INFO\TEORIA\21-EreditarietàGiocoScopa\21-EreditarietàGiocoScopa\obj\Debug\21-EreditarietàGiocoScopa.pdb
