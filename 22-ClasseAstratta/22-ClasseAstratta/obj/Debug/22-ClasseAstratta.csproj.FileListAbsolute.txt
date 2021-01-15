@@ -1,0 +1,9 @@
+G:\INFORMATICA\Quarta\INFO\TEORIA\22-ClasseAstratta\22-ClasseAstratta\bin\Debug\22-ClasseAstratta.exe.config
+G:\INFORMATICA\Quarta\INFO\TEORIA\22-ClasseAstratta\22-ClasseAstratta\bin\Debug\22-ClasseAstratta.exe
+G:\INFORMATICA\Quarta\INFO\TEORIA\22-ClasseAstratta\22-ClasseAstratta\bin\Debug\22-ClasseAstratta.pdb
+G:\INFORMATICA\Quarta\INFO\TEORIA\22-ClasseAstratta\22-ClasseAstratta\obj\Debug\22-ClasseAstratta.csprojAssemblyReference.cache
+G:\INFORMATICA\Quarta\INFO\TEORIA\22-ClasseAstratta\22-ClasseAstratta\obj\Debug\_22_ClasseAstratta.Form1.resources
+G:\INFORMATICA\Quarta\INFO\TEORIA\22-ClasseAstratta\22-ClasseAstratta\obj\Debug\_22_ClasseAstratta.Properties.Resources.resources
+G:\INFORMATICA\Quarta\INFO\TEORIA\22-ClasseAstratta\22-ClasseAstratta\obj\Debug\22-ClasseAstratta.csproj.GenerateResource.cache
+G:\INFORMATICA\Quarta\INFO\TEORIA\22-ClasseAstratta\22-ClasseAstratta\obj\Debug\22-ClasseAstratta.exe
+G:\INFORMATICA\Quarta\INFO\TEORIA\22-ClasseAstratta\22-ClasseAstratta\obj\Debug\22-ClasseAstratta.pdb
