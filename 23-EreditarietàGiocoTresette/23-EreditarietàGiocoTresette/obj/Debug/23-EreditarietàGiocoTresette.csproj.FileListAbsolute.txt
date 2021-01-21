@@ -1,0 +1,9 @@
+G:\INFORMATICA\Quarta\INFO\TEORIA\23-EreditarietàGiocoTresette\23-EreditarietàGiocoTresette\bin\Debug\23-EreditarietàGiocoTresette.exe.config
+G:\INFORMATICA\Quarta\INFO\TEORIA\23-EreditarietàGiocoTresette\23-EreditarietàGiocoTresette\bin\Debug\23-EreditarietàGiocoTresette.exe
+G:\INFORMATICA\Quarta\INFO\TEORIA\23-EreditarietàGiocoTresette\23-EreditarietàGiocoTresette\bin\Debug\23-EreditarietàGiocoTresette.pdb
+G:\INFORMATICA\Quarta\INFO\TEORIA\23-EreditarietàGiocoTresette\23-EreditarietàGiocoTresette\obj\Debug\23-EreditarietàGiocoTresette.csprojAssemblyReference.cache
+G:\INFORMATICA\Quarta\INFO\TEORIA\23-EreditarietàGiocoTresette\23-EreditarietàGiocoTresette\obj\Debug\_23_EreditarietàGiocoTresette.Form1.resources
+G:\INFORMATICA\Quarta\INFO\TEORIA\23-EreditarietàGiocoTresette\23-EreditarietàGiocoTresette\obj\Debug\_23_EreditarietàGiocoTresette.Properties.Resources.resources
+G:\INFORMATICA\Quarta\INFO\TEORIA\23-EreditarietàGiocoTresette\23-EreditarietàGiocoTresette\obj\Debug\23-EreditarietàGiocoTresette.csproj.GenerateResource.cache
+G:\INFORMATICA\Quarta\INFO\TEORIA\23-EreditarietàGiocoTresette\23-EreditarietàGiocoTresette\obj\Debug\23-EreditarietàGiocoTresette.exe
+G:\INFORMATICA\Quarta\INFO\TEORIA\23-EreditarietàGiocoTresette\23-EreditarietàGiocoTresette\obj\Debug\23-EreditarietàGiocoTresette.pdb
