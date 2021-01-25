@@ -1,0 +1,4 @@
+G:\INFORMATICA\Quarta\INFO\TEORIA\24-EreditarietàMondoAnimale\24-EreditarietàMondoAnimale\obj\Debug\24-EreditarietàMondoAnimale.csprojAssemblyReference.cache
+G:\INFORMATICA\Quarta\INFO\TEORIA\24-EreditarietàMondoAnimale\24-EreditarietàMondoAnimale\obj\Debug\_24_EreditarietàMondoAnimale.MondoAnimale.resources
+G:\INFORMATICA\Quarta\INFO\TEORIA\24-EreditarietàMondoAnimale\24-EreditarietàMondoAnimale\obj\Debug\_24_EreditarietàMondoAnimale.Properties.Resources.resources
+G:\INFORMATICA\Quarta\INFO\TEORIA\24-EreditarietàMondoAnimale\24-EreditarietàMondoAnimale\obj\Debug\24-EreditarietàMondoAnimale.csproj.GenerateResource.cache
