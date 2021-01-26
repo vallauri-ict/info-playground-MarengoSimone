@@ -1,23 +1,17 @@
 ﻿using System;
 using System.Collections.Generic;
-using System.Linq;
 using System.Text;
-using System.Threading.Tasks;
 
-namespace _24_EreditarietàMondoAnimale
+namespace _04_09_MondoAnimale
 {
-    public abstract class Cavallo : AnimaleTerrestre
+    class Cavallo : Quadrupede
     {
-        public Cavallo(string s):base(s)
+        public Cavallo(string s) : base(s)
         {
-            //super(s);
-        }
-        public string vive()
-        {
-            return "sulla terraferma";
+            verso = "nitrisce";
         }
 
-        public string chi_sei()
+        public override string chi_sei()
         {
             return "un cavallo";
         }

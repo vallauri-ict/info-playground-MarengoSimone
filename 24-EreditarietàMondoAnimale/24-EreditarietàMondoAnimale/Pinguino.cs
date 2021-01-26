@@ -1,25 +1,24 @@
 ﻿using System;
 using System.Collections.Generic;
-using System.Linq;
 using System.Text;
-using System.Threading.Tasks;
 
-namespace _24_EreditarietàMondoAnimale
+namespace _04_09_MondoAnimale
 {
-    public abstract class Pinguino:AnimaleAcquatico
+    class Pinguino : Uccello
     {
         public Pinguino(string s) : base(s)
         {
-            //super(s);
-        }
-        public string vive()
-        {
-            return "in un nido su un albero";
+            verso = "non fa versi";
         }
 
-        public string chi_sei()
+        public override string chi_sei()
         {
             return "un pinguino";
+        }
+
+        public override string si_muove()
+        {
+            return "ma non sa volare";
         }
     }
 }

@@ -1,25 +1,19 @@
 ﻿using System;
 using System.Collections.Generic;
-using System.Linq;
 using System.Text;
-using System.Threading.Tasks;
 
-namespace _24_EreditarietàMondoAnimale
+namespace _04_09_MondoAnimale
 {
-    public abstract class Bipede : AnimaleTerrestre
+    abstract class Bipede : AnimaleTerrestre
     {
         public Bipede(string s) : base(s)
         {
             //super(s);
         }
-        public string vive()
-        {
-            return "sulla terraferma";
-        }
 
-        public string chi_sei()
+        public override string si_muove()
         {
-            return "un bipede";
+            return "camminando su 2 gambe";
         }
     }
 }

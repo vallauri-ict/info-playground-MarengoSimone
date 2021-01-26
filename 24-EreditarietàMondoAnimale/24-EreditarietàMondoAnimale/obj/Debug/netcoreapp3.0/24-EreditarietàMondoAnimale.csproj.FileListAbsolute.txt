@@ -1,0 +1,11 @@
+C:\Users\user\Desktop\24-EreditarietàMondoAnimale\24-EreditarietàMondoAnimale\bin\Debug\netcoreapp3.0\24-EreditarietàMondoAnimale.exe
+C:\Users\user\Desktop\24-EreditarietàMondoAnimale\24-EreditarietàMondoAnimale\bin\Debug\netcoreapp3.0\24-EreditarietàMondoAnimale.deps.json
+C:\Users\user\Desktop\24-EreditarietàMondoAnimale\24-EreditarietàMondoAnimale\bin\Debug\netcoreapp3.0\24-EreditarietàMondoAnimale.runtimeconfig.json
+C:\Users\user\Desktop\24-EreditarietàMondoAnimale\24-EreditarietàMondoAnimale\bin\Debug\netcoreapp3.0\24-EreditarietàMondoAnimale.runtimeconfig.dev.json
+C:\Users\user\Desktop\24-EreditarietàMondoAnimale\24-EreditarietàMondoAnimale\bin\Debug\netcoreapp3.0\24-EreditarietàMondoAnimale.dll
+C:\Users\user\Desktop\24-EreditarietàMondoAnimale\24-EreditarietàMondoAnimale\bin\Debug\netcoreapp3.0\24-EreditarietàMondoAnimale.pdb
+C:\Users\user\Desktop\24-EreditarietàMondoAnimale\24-EreditarietàMondoAnimale\obj\Debug\netcoreapp3.0\24-EreditarietàMondoAnimale.csprojAssemblyReference.cache
+C:\Users\user\Desktop\24-EreditarietàMondoAnimale\24-EreditarietàMondoAnimale\obj\Debug\netcoreapp3.0\24-EreditarietàMondoAnimale.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\24-EreditarietàMondoAnimale\24-EreditarietàMondoAnimale\obj\Debug\netcoreapp3.0\24-EreditarietàMondoAnimale.AssemblyInfo.cs
+C:\Users\user\Desktop\24-EreditarietàMondoAnimale\24-EreditarietàMondoAnimale\obj\Debug\netcoreapp3.0\24-EreditarietàMondoAnimale.dll
+C:\Users\user\Desktop\24-EreditarietàMondoAnimale\24-EreditarietàMondoAnimale\obj\Debug\netcoreapp3.0\24-EreditarietàMondoAnimale.pdb

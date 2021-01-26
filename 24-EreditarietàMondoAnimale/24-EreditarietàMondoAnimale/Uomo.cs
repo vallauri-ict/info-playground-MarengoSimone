@@ -1,25 +1,24 @@
 ﻿using System;
 using System.Collections.Generic;
-using System.Linq;
 using System.Text;
-using System.Threading.Tasks;
 
-namespace _24_EreditarietàMondoAnimale
+namespace _04_09_MondoAnimale
 {
-    public abstract class Uomo:AnimaleTerrestre
+    class Uomo : Bipede
     {
         public Uomo(string s) : base(s)
         {
-            //super(s);
-        }
-        public string vive()
-        {
-            return "in un condominio";
+            verso = "parla";
         }
 
-        public string chi_sei()
+        public override string chi_sei()
         {
-            return "un cavallo";
+            return "un homo sapiens";
+        }
+
+        public override string vive()
+        {
+            return "in un condominio";
         }
     }
 }

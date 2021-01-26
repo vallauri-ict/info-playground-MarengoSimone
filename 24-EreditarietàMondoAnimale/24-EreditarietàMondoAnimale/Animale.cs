@@ -1,30 +1,28 @@
 ﻿using System;
 using System.Collections.Generic;
-using System.Linq;
 using System.Text;
-using System.Threading.Tasks;
 
-namespace _24_EreditarietàMondoAnimale
+namespace _04_09_MondoAnimale
 {
-    public abstract class Animale : MondoAnimale
+    abstract class Animale
     {
-        private string nome;
-        protected string verso;
+		protected string nome;
+		protected string verso;
 
-        public Animale(string s)
-        {
-            nome = s;
-        }
-        public abstract string si_muove();
+		public Animale(string s)
+		{
+			nome = s;
+		}
 
-        public abstract string vive();
+		public abstract string si_muove();
 
-        public abstract string chi_sei();
+		public abstract string vive();
 
-        public void mostra()
-        {
-            System.Windows.Forms.MessageBox.Show(nome + ", " + chi_sei() + ", " + verso + ", si muove " + si_muove()
-                + " e vive " + vive());
-        }
-    }
+		public abstract string chi_sei();
+
+		public void mostra()
+		{
+			Console.WriteLine(nome + ", " + chi_sei() + ", " + verso + ", si muove " + si_muove() + " e vive " + vive());
+		}
+	}
 }

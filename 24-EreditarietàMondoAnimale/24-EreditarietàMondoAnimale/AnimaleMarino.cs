@@ -1,27 +1,24 @@
 ﻿using System;
 using System.Collections.Generic;
-using System.Linq;
 using System.Text;
-using System.Threading.Tasks;
 
-namespace _24_EreditarietàMondoAnimale
+namespace _04_09_MondoAnimale
 {
-    public abstract class AnimaleMarino : Animale
+    abstract class AnimaleMarino : AnimaleAcquatico
     {
-
-        public AnimaleMarino(string s) : base(s)
-        {
+		public AnimaleMarino(string s) : base(s)
+		{
             //super(s);
         }
 
-        public string vive()
-        {
-            return "in mare";
-        }
+        public override string vive()
+		{
+			return "in mare";
+		}
 
-        public string chi_sei()
-        {
-            return "un animale marino";
-        }
-    }
+		public override string chi_sei()
+		{
+			return "un animale marino";
+		}
+	}
 }

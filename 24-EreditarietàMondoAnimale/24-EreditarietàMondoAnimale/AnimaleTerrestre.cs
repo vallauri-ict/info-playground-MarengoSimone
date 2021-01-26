@@ -1,25 +1,24 @@
 ﻿using System;
 using System.Collections.Generic;
-using System.Linq;
 using System.Text;
-using System.Threading.Tasks;
 
-namespace _24_EreditarietàMondoAnimale
+namespace _04_09_MondoAnimale
 {
-    public abstract class AnimaleTerrestre : Animale
+    abstract class AnimaleTerrestre : Animale
     {
-        public AnimaleTerrestre(string s):base(s)
-        {
+		public AnimaleTerrestre(string s) : base(s)
+		{
             //super(s);
         }
-        public string vive()
-        {
-            return "sulla terraferma";
-        }
 
-        public string chi_sei()
-        {
-            return "un animale terrestre";
-        }
-    }
+        public override string vive()
+		{
+			return "sulla terraferma";
+		}
+
+		public override string chi_sei()
+		{
+			return "un animale terrestre";
+		}
+	}
 }
