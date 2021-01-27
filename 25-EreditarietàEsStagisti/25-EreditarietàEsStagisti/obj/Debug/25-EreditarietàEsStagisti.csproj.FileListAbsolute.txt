@@ -1,0 +1,9 @@
+G:\INFORMATICA\Quarta\INFO\TEORIA\25-EreditarietàEsStagisti\25-EreditarietàEsStagisti\bin\Debug\25-EreditarietàEsStagisti.exe.config
+G:\INFORMATICA\Quarta\INFO\TEORIA\25-EreditarietàEsStagisti\25-EreditarietàEsStagisti\bin\Debug\25-EreditarietàEsStagisti.exe
+G:\INFORMATICA\Quarta\INFO\TEORIA\25-EreditarietàEsStagisti\25-EreditarietàEsStagisti\bin\Debug\25-EreditarietàEsStagisti.pdb
+G:\INFORMATICA\Quarta\INFO\TEORIA\25-EreditarietàEsStagisti\25-EreditarietàEsStagisti\obj\Debug\25-EreditarietàEsStagisti.csprojAssemblyReference.cache
+G:\INFORMATICA\Quarta\INFO\TEORIA\25-EreditarietàEsStagisti\25-EreditarietàEsStagisti\obj\Debug\_25_EreditarietàEsStagisti.Form1.resources
+G:\INFORMATICA\Quarta\INFO\TEORIA\25-EreditarietàEsStagisti\25-EreditarietàEsStagisti\obj\Debug\_25_EreditarietàEsStagisti.Properties.Resources.resources
+G:\INFORMATICA\Quarta\INFO\TEORIA\25-EreditarietàEsStagisti\25-EreditarietàEsStagisti\obj\Debug\25-EreditarietàEsStagisti.csproj.GenerateResource.cache
+G:\INFORMATICA\Quarta\INFO\TEORIA\25-EreditarietàEsStagisti\25-EreditarietàEsStagisti\obj\Debug\25-EreditarietàEsStagisti.exe
+G:\INFORMATICA\Quarta\INFO\TEORIA\25-EreditarietàEsStagisti\25-EreditarietàEsStagisti\obj\Debug\25-EreditarietàEsStagisti.pdb
