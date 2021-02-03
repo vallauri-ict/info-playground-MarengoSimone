@@ -1,16 +1,12 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace _25_EreditarietàEsStagisti
 {
-    abstract class clsAlunno : clsPersona
+    class clsAlunno : clsPersona
     {
         #region Attributi
         protected static int progressivo = 0;
-        protected readonly string matricola;
+        private readonly string matricola;
         private char classe;
         private char sezione;
         private string specializzazione;
@@ -32,12 +28,19 @@ namespace _25_EreditarietàEsStagisti
             get => specializzazione;
             set => specializzazione = value;
         }
-        protected clsAlunno(string nome,string cognome,string città) : base(nome,cognome,città)
+        public clsAlunno(string nome, string cognome, string città, char classe, string sezione, string spec)
+            : base(nome, cognome, città)
         {
+            Classe = classe;
+            Specializzazione = spec;
+            Sezione = Convert.ToChar(sezione);
+            progressivo++;
+            matricola = "A" + progressivo.ToString().PadLeft(5, '0');
         }
         public override string visualizza()
         {
-            throw new NotImplementedException();
+            return Matricola + " " + Nome + " " + Cognome + " " + Città + " " + Classe + " "
+                + Sezione + " " + Specializzazione;
         }
 
 

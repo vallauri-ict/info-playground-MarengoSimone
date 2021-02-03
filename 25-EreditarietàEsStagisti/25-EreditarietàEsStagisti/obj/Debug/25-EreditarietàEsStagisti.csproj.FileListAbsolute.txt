@@ -7,3 +7,12 @@ G:\INFORMATICA\Quarta\INFO\TEORIA\25-EreditarietàEsStagisti\25-EreditarietàEsS
 G:\INFORMATICA\Quarta\INFO\TEORIA\25-EreditarietàEsStagisti\25-EreditarietàEsStagisti\obj\Debug\25-EreditarietàEsStagisti.csproj.GenerateResource.cache
 G:\INFORMATICA\Quarta\INFO\TEORIA\25-EreditarietàEsStagisti\25-EreditarietàEsStagisti\obj\Debug\25-EreditarietàEsStagisti.exe
 G:\INFORMATICA\Quarta\INFO\TEORIA\25-EreditarietàEsStagisti\25-EreditarietàEsStagisti\obj\Debug\25-EreditarietàEsStagisti.pdb
+D:\INFORMATICA\Quarta\INFO\TEORIA\25-EreditarietàEsStagisti\25-EreditarietàEsStagisti\bin\Debug\25-EreditarietàEsStagisti.exe.config
+D:\INFORMATICA\Quarta\INFO\TEORIA\25-EreditarietàEsStagisti\25-EreditarietàEsStagisti\bin\Debug\25-EreditarietàEsStagisti.exe
+D:\INFORMATICA\Quarta\INFO\TEORIA\25-EreditarietàEsStagisti\25-EreditarietàEsStagisti\bin\Debug\25-EreditarietàEsStagisti.pdb
+D:\INFORMATICA\Quarta\INFO\TEORIA\25-EreditarietàEsStagisti\25-EreditarietàEsStagisti\obj\Debug\25-EreditarietàEsStagisti.csprojAssemblyReference.cache
+D:\INFORMATICA\Quarta\INFO\TEORIA\25-EreditarietàEsStagisti\25-EreditarietàEsStagisti\obj\Debug\_25_EreditarietàEsStagisti.Form1.resources
+D:\INFORMATICA\Quarta\INFO\TEORIA\25-EreditarietàEsStagisti\25-EreditarietàEsStagisti\obj\Debug\_25_EreditarietàEsStagisti.Properties.Resources.resources
+D:\INFORMATICA\Quarta\INFO\TEORIA\25-EreditarietàEsStagisti\25-EreditarietàEsStagisti\obj\Debug\25-EreditarietàEsStagisti.csproj.GenerateResource.cache
+D:\INFORMATICA\Quarta\INFO\TEORIA\25-EreditarietàEsStagisti\25-EreditarietàEsStagisti\obj\Debug\25-EreditarietàEsStagisti.exe
+D:\INFORMATICA\Quarta\INFO\TEORIA\25-EreditarietàEsStagisti\25-EreditarietàEsStagisti\obj\Debug\25-EreditarietàEsStagisti.pdb

@@ -109,6 +109,7 @@
             this.btnInserisci.TabIndex = 6;
             this.btnInserisci.Text = "Inserisci";
             this.btnInserisci.UseVisualStyleBackColor = true;
+            this.btnInserisci.Click += new System.EventHandler(this.btnInserisci_Click);
             // 
             // label4
             // 
@@ -218,12 +219,14 @@
             // 
             // btnRicerca
             // 
+            this.btnRicerca.Enabled = false;
             this.btnRicerca.Location = new System.Drawing.Point(253, 187);
             this.btnRicerca.Name = "btnRicerca";
             this.btnRicerca.Size = new System.Drawing.Size(174, 34);
             this.btnRicerca.TabIndex = 19;
             this.btnRicerca.Text = "Ricerca Azienda";
             this.btnRicerca.UseVisualStyleBackColor = true;
+            this.btnRicerca.Click += new System.EventHandler(this.btnRicerca_Click);
             // 
             // dgvStudenti
             // 
@@ -287,6 +290,7 @@
             this.Controls.Add(this.txtNome);
             this.Name = "Form1";
             this.Text = "Stagisti Vallauri";
+            this.Load += new System.EventHandler(this.Form1_Load);
             ((System.ComponentModel.ISupportInitialize)(this.dgvStudenti)).EndInit();
             this.ResumeLayout(false);
             this.PerformLayout();
