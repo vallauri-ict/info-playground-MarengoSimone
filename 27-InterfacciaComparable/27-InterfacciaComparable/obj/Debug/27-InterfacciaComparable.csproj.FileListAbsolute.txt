@@ -1,0 +1,9 @@
+D:\INFORMATICA\Quarta\INFO\TEORIA\27-InterfacciaComparable\27-InterfacciaComparable\obj\Debug\27-InterfacciaComparable.csprojAssemblyReference.cache
+D:\INFORMATICA\Quarta\INFO\TEORIA\27-InterfacciaComparable\27-InterfacciaComparable\obj\Debug\_27_InterfacciaComparable.Form1.resources
+D:\INFORMATICA\Quarta\INFO\TEORIA\27-InterfacciaComparable\27-InterfacciaComparable\obj\Debug\_27_InterfacciaComparable.Properties.Resources.resources
+D:\INFORMATICA\Quarta\INFO\TEORIA\27-InterfacciaComparable\27-InterfacciaComparable\obj\Debug\27-InterfacciaComparable.csproj.GenerateResource.cache
+D:\INFORMATICA\Quarta\INFO\TEORIA\27-InterfacciaComparable\27-InterfacciaComparable\bin\Debug\27-InterfacciaComparable.exe.config
+D:\INFORMATICA\Quarta\INFO\TEORIA\27-InterfacciaComparable\27-InterfacciaComparable\bin\Debug\27-InterfacciaComparable.exe
+D:\INFORMATICA\Quarta\INFO\TEORIA\27-InterfacciaComparable\27-InterfacciaComparable\bin\Debug\27-InterfacciaComparable.pdb
+D:\INFORMATICA\Quarta\INFO\TEORIA\27-InterfacciaComparable\27-InterfacciaComparable\obj\Debug\27-InterfacciaComparable.exe
+D:\INFORMATICA\Quarta\INFO\TEORIA\27-InterfacciaComparable\27-InterfacciaComparable\obj\Debug\27-InterfacciaComparable.pdb
