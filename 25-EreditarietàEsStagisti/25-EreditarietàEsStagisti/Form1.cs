@@ -64,5 +64,27 @@ namespace _25_EreditarietàEsStagisti
                 MessageBox.Show("Non è stata effettuata alcuna ora in " + azienda, "Information"
                     , MessageBoxButtons.OK, MessageBoxIcon.Information);
         }
+
+        private void btnElimina_Click(object sender, EventArgs e)
+        {
+            try
+            {
+                if (txtPosizione.Text == "")
+                {
+                    elencoStudenti.cancella();
+                }
+                else
+                {
+                    elencoStudenti.cancella(Convert.ToInt32(txtPosizione.Text));
+                }
+                MessageBox.Show("Cancellazione Effettuata!");
+                elencoStudenti.visualizzaDgv(dgvStudenti);
+            }
+            catch (Exception ex)
+            {
+
+                MessageBox.Show(ex.Message);
+            }
+        }
     }
 }

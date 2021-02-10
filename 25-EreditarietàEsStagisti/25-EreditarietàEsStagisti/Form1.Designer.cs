@@ -233,7 +233,7 @@
             this.dgvStudenti.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
             this.dgvStudenti.Location = new System.Drawing.Point(15, 244);
             this.dgvStudenti.Name = "dgvStudenti";
-            this.dgvStudenti.Size = new System.Drawing.Size(412, 196);
+            this.dgvStudenti.Size = new System.Drawing.Size(468, 196);
             this.dgvStudenti.TabIndex = 20;
             // 
             // btnElimina
@@ -244,6 +244,7 @@
             this.btnElimina.TabIndex = 21;
             this.btnElimina.Text = "Elimina";
             this.btnElimina.UseVisualStyleBackColor = true;
+            this.btnElimina.Click += new System.EventHandler(this.btnElimina_Click);
             // 
             // txtPosizione
             // 
