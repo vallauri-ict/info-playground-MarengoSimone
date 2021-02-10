@@ -1,0 +1,9 @@
+D:\INFORMATICA\Quarta\INFO\TEORIA\26-EsInterfacce\26-EsInterfacce\bin\Debug\26-EsInterfacce.exe.config
+D:\INFORMATICA\Quarta\INFO\TEORIA\26-EsInterfacce\26-EsInterfacce\bin\Debug\26-EsInterfacce.exe
+D:\INFORMATICA\Quarta\INFO\TEORIA\26-EsInterfacce\26-EsInterfacce\bin\Debug\26-EsInterfacce.pdb
+D:\INFORMATICA\Quarta\INFO\TEORIA\26-EsInterfacce\26-EsInterfacce\obj\Debug\26-EsInterfacce.csprojAssemblyReference.cache
+D:\INFORMATICA\Quarta\INFO\TEORIA\26-EsInterfacce\26-EsInterfacce\obj\Debug\_26_EsInterfacce.Form1.resources
+D:\INFORMATICA\Quarta\INFO\TEORIA\26-EsInterfacce\26-EsInterfacce\obj\Debug\_26_EsInterfacce.Properties.Resources.resources
+D:\INFORMATICA\Quarta\INFO\TEORIA\26-EsInterfacce\26-EsInterfacce\obj\Debug\26-EsInterfacce.csproj.GenerateResource.cache
+D:\INFORMATICA\Quarta\INFO\TEORIA\26-EsInterfacce\26-EsInterfacce\obj\Debug\26-EsInterfacce.exe
+D:\INFORMATICA\Quarta\INFO\TEORIA\26-EsInterfacce\26-EsInterfacce\obj\Debug\26-EsInterfacce.pdb
