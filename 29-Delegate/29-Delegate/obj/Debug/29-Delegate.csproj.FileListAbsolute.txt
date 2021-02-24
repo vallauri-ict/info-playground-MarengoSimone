@@ -1,0 +1,9 @@
+G:\INFORMATICA\Quarta\INFO\TEORIA\29-Delegate\29-Delegate\bin\Debug\29-Delegate.exe.config
+G:\INFORMATICA\Quarta\INFO\TEORIA\29-Delegate\29-Delegate\bin\Debug\29-Delegate.exe
+G:\INFORMATICA\Quarta\INFO\TEORIA\29-Delegate\29-Delegate\bin\Debug\29-Delegate.pdb
+G:\INFORMATICA\Quarta\INFO\TEORIA\29-Delegate\29-Delegate\obj\Debug\29-Delegate.csprojAssemblyReference.cache
+G:\INFORMATICA\Quarta\INFO\TEORIA\29-Delegate\29-Delegate\obj\Debug\_29_Delegate.Form1.resources
+G:\INFORMATICA\Quarta\INFO\TEORIA\29-Delegate\29-Delegate\obj\Debug\_29_Delegate.Properties.Resources.resources
+G:\INFORMATICA\Quarta\INFO\TEORIA\29-Delegate\29-Delegate\obj\Debug\29-Delegate.csproj.GenerateResource.cache
+G:\INFORMATICA\Quarta\INFO\TEORIA\29-Delegate\29-Delegate\obj\Debug\29-Delegate.exe
+G:\INFORMATICA\Quarta\INFO\TEORIA\29-Delegate\29-Delegate\obj\Debug\29-Delegate.pdb
