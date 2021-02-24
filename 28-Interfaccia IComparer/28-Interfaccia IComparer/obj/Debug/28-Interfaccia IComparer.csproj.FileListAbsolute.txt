@@ -1,0 +1,9 @@
+G:\INFORMATICA\Quarta\INFO\TEORIA\28-Interfaccia IComparer\28-Interfaccia IComparer\bin\Debug\28-Interfaccia IComparer.exe.config
+G:\INFORMATICA\Quarta\INFO\TEORIA\28-Interfaccia IComparer\28-Interfaccia IComparer\bin\Debug\28-Interfaccia IComparer.exe
+G:\INFORMATICA\Quarta\INFO\TEORIA\28-Interfaccia IComparer\28-Interfaccia IComparer\bin\Debug\28-Interfaccia IComparer.pdb
+G:\INFORMATICA\Quarta\INFO\TEORIA\28-Interfaccia IComparer\28-Interfaccia IComparer\obj\Debug\28-Interfaccia IComparer.csprojAssemblyReference.cache
+G:\INFORMATICA\Quarta\INFO\TEORIA\28-Interfaccia IComparer\28-Interfaccia IComparer\obj\Debug\_28_Interfaccia_IComparer.Form1.resources
+G:\INFORMATICA\Quarta\INFO\TEORIA\28-Interfaccia IComparer\28-Interfaccia IComparer\obj\Debug\_28_Interfaccia_IComparer.Properties.Resources.resources
+G:\INFORMATICA\Quarta\INFO\TEORIA\28-Interfaccia IComparer\28-Interfaccia IComparer\obj\Debug\28-Interfaccia IComparer.csproj.GenerateResource.cache
+G:\INFORMATICA\Quarta\INFO\TEORIA\28-Interfaccia IComparer\28-Interfaccia IComparer\obj\Debug\28-Interfaccia IComparer.exe
+G:\INFORMATICA\Quarta\INFO\TEORIA\28-Interfaccia IComparer\28-Interfaccia IComparer\obj\Debug\28-Interfaccia IComparer.pdb
