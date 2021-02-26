@@ -1,0 +1,9 @@
+G:\INFORMATICA\Quarta\INFO\TEORIA\30-PrimoEsercizioDispense[Delegate]\30-PrimoEsercizioDispense[Delegate]\bin\Debug\30-PrimoEsercizioDispense[Delegate].exe.config
+G:\INFORMATICA\Quarta\INFO\TEORIA\30-PrimoEsercizioDispense[Delegate]\30-PrimoEsercizioDispense[Delegate]\bin\Debug\30-PrimoEsercizioDispense[Delegate].exe
+G:\INFORMATICA\Quarta\INFO\TEORIA\30-PrimoEsercizioDispense[Delegate]\30-PrimoEsercizioDispense[Delegate]\bin\Debug\30-PrimoEsercizioDispense[Delegate].pdb
+G:\INFORMATICA\Quarta\INFO\TEORIA\30-PrimoEsercizioDispense[Delegate]\30-PrimoEsercizioDispense[Delegate]\obj\Debug\30-PrimoEsercizioDispense[Delegate].csprojAssemblyReference.cache
+G:\INFORMATICA\Quarta\INFO\TEORIA\30-PrimoEsercizioDispense[Delegate]\30-PrimoEsercizioDispense[Delegate]\obj\Debug\_30_PrimoEsercizioDispense_Delegate_.Form1.resources
+G:\INFORMATICA\Quarta\INFO\TEORIA\30-PrimoEsercizioDispense[Delegate]\30-PrimoEsercizioDispense[Delegate]\obj\Debug\_30_PrimoEsercizioDispense_Delegate_.Properties.Resources.resources
+G:\INFORMATICA\Quarta\INFO\TEORIA\30-PrimoEsercizioDispense[Delegate]\30-PrimoEsercizioDispense[Delegate]\obj\Debug\30-PrimoEsercizioDispense[Delegate].csproj.GenerateResource.cache
+G:\INFORMATICA\Quarta\INFO\TEORIA\30-PrimoEsercizioDispense[Delegate]\30-PrimoEsercizioDispense[Delegate]\obj\Debug\30-PrimoEsercizioDispense[Delegate].exe
+G:\INFORMATICA\Quarta\INFO\TEORIA\30-PrimoEsercizioDispense[Delegate]\30-PrimoEsercizioDispense[Delegate]\obj\Debug\30-PrimoEsercizioDispense[Delegate].pdb
