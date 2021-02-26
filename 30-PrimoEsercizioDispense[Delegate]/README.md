@@ -2,7 +2,7 @@
 
 _Stud. Marengo Simone_
 
-## Progetto 29:
+## Progetto 30:
 Primo esercizio delle dispense sui **delegate** del prof.Mana (robertomana.it)
 
 ## Obiettivo:
