@@ -8,8 +8,6 @@ namespace _31_SecondoEsercizioDispense_Delegate_
 {
     public class OverMaxEventArgs : EventArgs
     {
-        private int valoreSoglia;
-
         public int ValoreSoglia { get; }
 
         public OverMaxEventArgs(int valoreSoglia)

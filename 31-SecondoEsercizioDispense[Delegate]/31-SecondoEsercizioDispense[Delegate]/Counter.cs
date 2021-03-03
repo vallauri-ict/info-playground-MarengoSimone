@@ -9,7 +9,9 @@ namespace _31_SecondoEsercizioDispense_Delegate_
     public delegate void OverMaxEventHandler(object sender, OverMaxEventArgs e);
     class Counter
     {
+        public event OverMaxEventHandler OverMax;
         private int maxVal;
+        public int counter = 0;
         public Counter(int n)
         {
             if (n>10)
@@ -19,6 +21,24 @@ namespace _31_SecondoEsercizioDispense_Delegate_
             else
             {
                 maxVal = n;
+            }
+        }
+
+        public void Incrementa()
+        {
+            counter++;
+            if (counter>=maxVal)
+            {
+                OverMaxEventArgs e = new OverMaxEventArgs(counter);
+                OnOverMax(this, e);
+            }
+        }
+
+        private void OnOverMax(object sender, OverMaxEventArgs e)
+        {
+            if (OverMax!=null) // se OverMax punta ad una funzione (se è stato gestito al di fuori della nostra classe)
+            {
+                OverMax(sender, e);
             }
         }
     }

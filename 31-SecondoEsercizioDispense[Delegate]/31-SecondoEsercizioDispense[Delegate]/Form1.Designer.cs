@@ -30,7 +30,7 @@
         {
             this.txtMaxValue = new System.Windows.Forms.TextBox();
             this.btnCreate = new System.Windows.Forms.Button();
-            this.button1 = new System.Windows.Forms.Button();
+            this.btnIncrementa = new System.Windows.Forms.Button();
             this.label1 = new System.Windows.Forms.Label();
             this.SuspendLayout();
             // 
@@ -49,15 +49,17 @@
             this.btnCreate.TabIndex = 1;
             this.btnCreate.Text = "Create";
             this.btnCreate.UseVisualStyleBackColor = true;
+            this.btnCreate.Click += new System.EventHandler(this.btnCreate_Click);
             // 
-            // button1
+            // btnIncrementa
             // 
-            this.button1.Location = new System.Drawing.Point(152, 85);
-            this.button1.Name = "button1";
-            this.button1.Size = new System.Drawing.Size(75, 23);
-            this.button1.TabIndex = 2;
-            this.button1.Text = "CreateCreate";
-            this.button1.UseVisualStyleBackColor = true;
+            this.btnIncrementa.Location = new System.Drawing.Point(152, 85);
+            this.btnIncrementa.Name = "btnIncrementa";
+            this.btnIncrementa.Size = new System.Drawing.Size(75, 23);
+            this.btnIncrementa.TabIndex = 2;
+            this.btnIncrementa.Text = "Incrementa";
+            this.btnIncrementa.UseVisualStyleBackColor = true;
+            this.btnIncrementa.Click += new System.EventHandler(this.btnIncrementa_Click);
             // 
             // label1
             // 
@@ -74,7 +76,7 @@
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(259, 166);
             this.Controls.Add(this.label1);
-            this.Controls.Add(this.button1);
+            this.Controls.Add(this.btnIncrementa);
             this.Controls.Add(this.btnCreate);
             this.Controls.Add(this.txtMaxValue);
             this.Name = "Form1";
@@ -88,7 +90,7 @@
 
         private System.Windows.Forms.TextBox txtMaxValue;
         private System.Windows.Forms.Button btnCreate;
-        private System.Windows.Forms.Button button1;
+        private System.Windows.Forms.Button btnIncrementa;
         private System.Windows.Forms.Label label1;
     }
 }
