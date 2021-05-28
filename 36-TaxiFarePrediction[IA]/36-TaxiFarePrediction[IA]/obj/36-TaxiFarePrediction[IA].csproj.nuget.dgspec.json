@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\s.marengo.1338\\source\\repos\\36-TaxiFarePrediction[IA]\\36-TaxiFarePrediction[IA]\\36-TaxiFarePrediction[IA].csproj": {}
+    "D:\\INFORMATICA\\Quarta\\INFO\\TEORIA\\36-TaxiFarePrediction[IA]\\36-TaxiFarePrediction[IA]\\36-TaxiFarePrediction[IA].csproj": {}
   },
   "projects": {
-    "C:\\Users\\s.marengo.1338\\source\\repos\\36-TaxiFarePrediction[IA]\\36-TaxiFarePrediction[IA]\\36-TaxiFarePrediction[IA].csproj": {
+    "D:\\INFORMATICA\\Quarta\\INFO\\TEORIA\\36-TaxiFarePrediction[IA]\\36-TaxiFarePrediction[IA]\\36-TaxiFarePrediction[IA].csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\s.marengo.1338\\source\\repos\\36-TaxiFarePrediction[IA]\\36-TaxiFarePrediction[IA]\\36-TaxiFarePrediction[IA].csproj",
+        "projectUniqueName": "D:\\INFORMATICA\\Quarta\\INFO\\TEORIA\\36-TaxiFarePrediction[IA]\\36-TaxiFarePrediction[IA]\\36-TaxiFarePrediction[IA].csproj",
         "projectName": "36-TaxiFarePrediction[IA]",
-        "projectPath": "C:\\Users\\s.marengo.1338\\source\\repos\\36-TaxiFarePrediction[IA]\\36-TaxiFarePrediction[IA]\\36-TaxiFarePrediction[IA].csproj",
+        "projectPath": "D:\\INFORMATICA\\Quarta\\INFO\\TEORIA\\36-TaxiFarePrediction[IA]\\36-TaxiFarePrediction[IA]\\36-TaxiFarePrediction[IA].csproj",
         "packagesPath": "C:\\Users\\s.marengo.1338\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\s.marengo.1338\\source\\repos\\36-TaxiFarePrediction[IA]\\36-TaxiFarePrediction[IA]\\obj\\",
+        "outputPath": "D:\\INFORMATICA\\Quarta\\INFO\\TEORIA\\36-TaxiFarePrediction[IA]\\36-TaxiFarePrediction[IA]\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",
